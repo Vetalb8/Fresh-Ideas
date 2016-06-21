@@ -1,0 +1,9 @@
+{
+  "name": "Company",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
+}

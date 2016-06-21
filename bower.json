@@ -1,0 +1,17 @@
+{
+  "name": "Company",
+  "description": "Verstka",
+  "moduleType": [],
+  "authors": [
+    "Vitalya Kudla"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+  }
+}
