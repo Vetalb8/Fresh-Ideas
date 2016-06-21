@@ -24,7 +24,7 @@ sudo bower i
 
 <p align="center">
     <a href="http://webmole.ru">
-        <img width="286" height="75" title="WebMole" src="design/logo/logo.png">
+        <img width="286" height="75" title="WebMole" src="_design/logo/logo.png">
     </a>
 </p>
 
